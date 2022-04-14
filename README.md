@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexi Mathay</h1>
 <h3 align="center">A girl from the Philippines passionate about data</h3>
 
-- 🔭 I’m currently working on **Machine Learning Projects**
-
-- 🌱 I’m currently learning **Data Visualization**
-
-- 👯 I’m looking to collaborate on **Kaggle Competitions**
+- 🌞 Here you can find some of the projects I find interesting that hopefully you find interesting too!
 
 - 📫 How to reach me **alexandramathay@gmail.com**
-
-- ⚡ Fun fact **I love the sun 🌞**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
